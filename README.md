@@ -1,6 +1,6 @@
 # Live/dead image analysis macro (Fiji)
 
-`livedead_cellpose.ijm` batch-analyses confocal calcein / EthD-1 images of A375 cells in GelMA constructs. It was used for the live/dead analysis in the MSc dissertation of M. Mare (North-West University, 2026). A link to the article will be added if it is published.
+`livedead_cellpose.ijm` batch-analyses confocal calcein / EthD-1 images of A375 cells in GelMA constructs.
 
 The macro prepares the images, segments the cells with the published Cellpose-SAM model, and measures the masks in Fiji. It adds no new segmentation method.
 
